@@ -1,0 +1,14 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Byte-compiled / temporary Python files
+__pycache__/
+*.py[cod]
+
+# Virtual environments (if created)
+env/
+venv/
+ENV/
+
+# Data files
+*.csv
